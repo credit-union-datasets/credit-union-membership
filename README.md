@@ -14,6 +14,6 @@ Contains membership data scraped from the credit union websites, as well as our 
 
 ```
 .
-├── data
-│   └── membership.csv
+└── data
+    └── membership.csv
 ```
