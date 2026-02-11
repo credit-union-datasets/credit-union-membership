@@ -8,8 +8,9 @@ Contains membership data scraped from the credit union websites, as well as our 
 
 ## See also
 
-- [NCUA Data for Federally Insured Credit Unions](https://github.com/credit-union-datasets/credit-union-ncua) - NCUA listing data including charter numbers, which are the unique primary keys across all three datasets.
+- [NCUA Data for Federally Insured Credit Unions](https://github.com/credit-union-datasets/credit-union-ncua) - NCUA listing data including charter numbers, which are the unique primary keys across all four datasets.
 - [Credit Union Website Addresses](https://github.com/credit-union-datasets/credit-union-websites) - website URLs for the credit unions (which is where we get the membership data). The credit-union-websites dataset is a pre-requisite for this credit-union-membership dataset.
+- [Credit Union HYSA Rates](https://github.com/credit-union-datasets/credit-union-hysa) - high-yield savings account rates at credit unions.
 
 ## Inventory
 
